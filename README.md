@@ -2,14 +2,13 @@
 
 
 
-<h2>O que é? 🤔
-</h2>
+<h2>O que é? 🤔</h2>
 
 Projeto baseado na arquitetura de Micro Serviços desenvolvido na linguagem Java com Spring Boot e Cloud.
 
 
 
-<h2>O que foi usado? ⚙️
+<h2>O que foi usado? ⚙️</h2>
 
 - Java 11
 
@@ -27,7 +26,7 @@ Projeto baseado na arquitetura de Micro Serviços desenvolvido na linguagem Java
 
   
 
-<h2>Como iniciar? ▶️
+<h2>Como iniciar? ▶️</h2>
 
 Primeiramente é necessário ter instalados em seu computador os seguintes programas:
 
@@ -46,7 +45,7 @@ Para iniciar o projeto basta apenas fazer o BootRun na seguinte ordem:
 
 
 
-<h2>Como faço para entrar em contato? ✉️
+<h2>Como faço para entrar em contato? ✉️</h2>
 
 Basta me chamar em alguma das minhas redes sociais:
 
@@ -62,14 +61,13 @@ Basta me chamar em alguma das minhas redes sociais:
 
 
 
-<h2> What is it? 🤔
-</h2>
+<h2> What is it? 🤔</h2>
 
 Project based on Micro Services architecture developed in Java language with Spring Boot and Cloud.
 
 
 
-<h2> What was used? ⚙️
+<h2> What was used? ⚙️</h2>
 
 - Java 11
 
@@ -87,7 +85,7 @@ Project based on Micro Services architecture developed in Java language with Spr
 
   
 
-<h2> How to get started? ▶
+<h2> How to get started? ▶</h2>
 
 First, you must have the following programs installed on your computer:
 
@@ -106,7 +104,7 @@ To start the project just do the BootRun in the following order:
 
 
 
-<h2> How do I get in touch? ✉️
+<h2> How do I get in touch? ✉️</h2>
 
 Just call me on one of my social networks:
 
